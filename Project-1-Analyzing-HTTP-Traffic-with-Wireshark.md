@@ -40,6 +40,7 @@ In this project, we will use Wireshark to capture, filter and analyze HTTP traff
 
 - Displayed HTTP traffic filtered from the overall capture.
 
+![Screenshot 2024-08-03 152955](https://github.com/user-attachments/assets/d740c807-e6ea-45e5-b439-e416912cd872)
 
 ### Exercise 3: Analyze HTTP Requests
 
