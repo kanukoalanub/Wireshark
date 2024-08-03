@@ -24,7 +24,7 @@ In this project, we will use Wireshark to capture and analyze HTTP traffic. HTTP
 #### Expected Output
 
 - A capture file containing network traffic, including HTTP requests and responses.
-
+![Screenshot 2024-08-03 115358](https://github.com/user-attachments/assets/efdb3a37-8260-4d5d-9b71-f37c797f034f)
 
 
 ### Exercise 2: Filter HTTP Traffic
