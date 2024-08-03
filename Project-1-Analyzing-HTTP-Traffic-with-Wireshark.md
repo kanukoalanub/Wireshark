@@ -67,6 +67,8 @@ In this project, we will use Wireshark to capture, filter and analyze HTTP traff
 #### Expected Output
 
 - Detailed information about an HTTP response displayed.
+  
+![Screenshot 2024-08-03 184755](https://github.com/user-attachments/assets/432ea11c-7501-4813-b720-af413feaff96)
 
 ### Exercise 5: Extract and Examine Payload Data
 
