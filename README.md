@@ -20,5 +20,9 @@ This project covers how to use Wireshark to detect and investigate malware traff
 * Key Topics: Malware Detection, Traffic Analysis, Indicators of Compromise.
 * Reporting Tools: Wireshark, Sample PCAP Files
 
-  ### 3. [Wireshark for Network Intrusion Detection](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-3-Wireshark-for-Network-Intrusion-Detection.md)
+### 3. [Wireshark for Network Intrusion Detection](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-3-Wireshark-for-Network-Intrusion-Detection.md)
   
+This project covers how to use Wireshark for network intrusion detection. And also how to identify indicators of compromise, analyze suspicious packets, following intrusion communication streams, and documenting findings.
+
+* Key Topics: Intrusion Detection, Traffic Analysis, Indicators of Compromise, Reporting
+* Tools: Wireshark, Sample PCAP Files
