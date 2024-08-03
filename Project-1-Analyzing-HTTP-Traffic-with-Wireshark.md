@@ -82,3 +82,4 @@ In this project, we will use Wireshark to capture, filter and analyze HTTP traff
 
 - Payload data from the HTTP response extracted and examined.
 
+![Screenshot 2024-08-03 185014](https://github.com/user-attachments/assets/539afa33-82e1-4508-9ed5-7e3fc1d881df)
