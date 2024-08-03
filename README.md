@@ -1,2 +1,5 @@
-# Analyzing HTTP Traffic using Wireshark
-In this project, you'll learn how to use Wireshark to capture and analyze HTTP traffic. HTTP traffic analysis is crucial for understanding web communication, identifying potential security issues, and investigating anomalies in network traffi
+# Wireshark-projects
+
+## Overview
+
+This repository contains five beginner-level projects focused on using Wireshark for security forensics and investigation. Each project provides essential techniques for capturing and analyzing network traffic to identify potential security issues and improve network performance.
