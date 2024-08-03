@@ -6,4 +6,4 @@ This repository contains five beginner-level projects focused on using Wireshark
 
 ## Projects
 
-### Analyzing HTTP Traffic with Wireshark - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+### [Analyzing HTTP Traffic with Wireshark]
