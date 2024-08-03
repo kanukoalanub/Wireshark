@@ -8,11 +8,12 @@ This repository contains five beginner-level projects focused on using Wireshark
 
 ### 1. [Analyzing HTTP Traffic with Wireshark](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-1-Analyzing-HTTP-Traffic-with-Wireshark.md) 
 
-
 This project covers how to capture and analyze HTTP traffic using Wireshark. And also setting up captures, filtering HTTP traffic, analyzing HTTP requests and responses, and extracting payload data.
 
 * Key Topics: HTTP Traffic, Packet Analysis, Filtering, Payload Extraction
 * Tools: Wireshark, Web Browser
+
+### 2. [Detecting and Investigating Malware Traffic](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-2-Detecting-and-Investigating-Malware-Traffic.md) 
 
 Use Wireshark to detect and investigate malware traffic. This project involves identifying suspicious patterns, analyzing malicious packets, following malware communication streams, and documenting findings.
 
