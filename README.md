@@ -10,6 +10,5 @@ This repository contains five beginner-level projects focused on using Wireshark
 
 This project covers how to capture and analyze HTTP traffic using Wireshark. Also setting up captures, filtering HTTP traffic, analyzing HTTP requests and responses, and extracting payload data.
 
-### A list Bullet points
-Key Topics: HTTP Traffic, Packet Analysis, Filtering, Payload Extraction
-Tools: Wireshark, Web Browser
+*Key Topics: HTTP Traffic, Packet Analysis, Filtering, Payload Extraction
+*Tools: Wireshark, Web Browser
