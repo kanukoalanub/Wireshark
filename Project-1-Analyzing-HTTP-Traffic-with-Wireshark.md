@@ -24,7 +24,8 @@ In this project, we will use Wireshark to capture, filter and analyze HTTP traff
 #### Expected Output
 
 - A capture file containing network traffic, including HTTP requests and responses.
-![Screenshot 2024-08-03 115358](https://github.com/user-attachments/assets/efdb3a37-8260-4d5d-9b71-f37c797f034f)
+
+![Screenshot 2024-08-03 120214](https://github.com/user-attachments/assets/dbfff9f7-992d-40eb-a93e-ec482f1a38f3)
 
 
 ### Exercise 2: Filter HTTP Traffic
@@ -38,6 +39,7 @@ In this project, we will use Wireshark to capture, filter and analyze HTTP traff
 #### Expected Output
 
 - Displayed HTTP traffic filtered from the overall capture.
+
 
 ### Exercise 3: Analyze HTTP Requests
 
