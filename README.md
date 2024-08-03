@@ -26,3 +26,17 @@ This project covers how to use Wireshark for network intrusion detection. And al
 
 * Key Topics: Intrusion Detection, Traffic Analysis, Indicators of Compromise, Reporting
 * Tools: Wireshark, Sample PCAP Files
+
+### 4. [Decrypting Analyzing SSL/TLS Traffic](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-4-Decrypting-Analyzing-TLS-Traffic.md)
+
+Master the process of decrypting and analyzing SSL/TLS traffic with Wireshark. This project includes configuring decryption settings, filtering SSL/TLS traffic, analyzing decrypted packets, and following secure communication streams.
+
+*  Key Topics: SSL/TLS Decryption, Secure Traffic Analysis, Filtering, Communication Streams
+*  Tools: Wireshark, Private Key Files, Sample PCAP Files
+
+### 5. [Capturing and Analyzing VOIP Traffic](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-5-Capturing-and-Analyzing-VOIP-Traffic.md)
+
+Capture and analyze VoIP traffic using Wireshark. This project covers capturing VoIP calls, filtering SIP and RTP traffic, analyzing SIP packets, examining RTP streams, and playing back VoIP call audio.
+
+* Key Topics: VoIP Traffic, SIP, RTP, Call Analysis, Playback
+* Tools: Wireshark, VoIP Network or Sample PCAP Files
