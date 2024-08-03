@@ -6,7 +6,7 @@ In this project, we will use Wireshark to capture, filter and analyze HTTP traff
 
 ## Lab Set-up and Tools
 
-1. **Wireshark**: Wireshark v4.2.6
+1. **Tool**: Wireshark v4.2.6
 2. **Web Browser**: Chrome for generating HTTP traffic.
 
 ## Exercises
