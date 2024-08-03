@@ -54,6 +54,8 @@ In this project, we will use Wireshark to capture, filter and analyze HTTP traff
 
 - Detailed information about an HTTP GET request displayed.
 
+- ![Screenshot 2024-08-03 184405](https://github.com/user-attachments/assets/d32473dd-f07a-42d3-b721-e169cbbff1b3)
+
 ### Exercise 4: Analyze HTTP Responses
 
 #### Steps
