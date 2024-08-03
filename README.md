@@ -6,4 +6,4 @@ This repository contains five beginner-level projects focused on using Wireshark
 
 ## Projects
 
-### <span style="color:blue">long</span>Analyzing HTTP Traffic with Wireshark
+### <span style="color:blue;">long</span> Analyzing HTTP Traffic with Wireshark.
