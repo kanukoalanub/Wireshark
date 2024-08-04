@@ -13,11 +13,11 @@ This project covers how to capture and analyze HTTP traffic using Wireshark. And
 * Key Topics: HTTP Traffic, Packet Analysis, Filtering, Payload Extraction
 * Tools: Wireshark, Web Browser
 
-### 2. [Detecting and Investigating Malware Traffic](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-2-Detecting-and-Investigating-Malware-Traffic.md) 
+### 2. [Investigate Network Traffic from Windows based Malware Infections](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-2-Investigate-Network-Traffic-from-Windows-based-Malware-Infections.md) 
 
-This project covers how to use Wireshark to detect and investigate malware traffic. And also how to identify suspicious patterns, analyze malicious packets, how to follow malware communication streams, and documenting findings.
+This project covers how to use Wireshark to investigate network traffic from Windows based malware infections.
 
-* Key Topics: Malware Detection, Traffic Analysis, Indicators of Compromise.
+* Key Topics: Malware Infections, Network Traffic Analysis.
 * Reporting Tools: Wireshark, Sample PCAP Files
 
 ### 3. [Wireshark for Network Intrusion Detection](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-3-Wireshark-for-Network-Intrusion-Detection.md)
