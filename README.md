@@ -17,7 +17,7 @@ This project covers how to capture and analyze HTTP traffic using Wireshark. And
 
 This project covers how to use Wireshark to investigate network traffic from Windows based malware infections.
 
-* Key Topics: Malware Infections, Network Traffic Analysis.
+* Key Topics: Malware Infections, Network Traffic Analysis -DHCP, NBNS.
 * Reporting Tools: Wireshark, Sample PCAP Files
 
 ### 3. [Wireshark for Network Intrusion Detection](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-3-Wireshark-for-Network-Intrusion-Detection.md)
