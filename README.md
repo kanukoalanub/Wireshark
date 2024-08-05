@@ -20,7 +20,7 @@ This project covers how to use Wireshark to investigate network traffic from Win
 * Key Topics: Malware Infections, Network Traffic Analysis -DHCP, NBNS.
 * Reporting Tools: Wireshark, Sample PCAP Files
 
-### 3. [Wireshark for Network Intrusion Detection](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-3-Wireshark-for-Network-Intrusion-Detection.md)
+### 3. [Reviewing Various types of Non-Malicious Traffic](https://github.com/kanukoalanub/Wireshark-projects/blob/main/Project-3-Various-types-of-Non-Malicious-Traffic.md)
 
 This project covers what non-malicious and normal traffic looks like. Routine web browsing, operating system activity from Microsoft Windows, and legitimate applications can generate unusual traffic if you have never seen it before. 
 
