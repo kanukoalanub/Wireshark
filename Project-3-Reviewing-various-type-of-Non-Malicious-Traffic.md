@@ -7,3 +7,18 @@ This project covers what non-malicious and normal traffic looks like. we shall a
 
 1. **Tool**: Wireshark v4.2.6
 2. **Sample PCAP File**: Download a sample PCAP file containing malware traffic for analysis.
+
+## Exercises
+
+### Exercise 1: Investigate possible windows malware alert to confirm if its actually a Windows malware alert.
+
+#### Steps
+
+1. Open Wireshark.
+2. Go to "File" > "Open" and select the sample PCAP file you downloaded.
+3. The file will load, and the captured traffic will be displayed. lets use basic filter.
+4. when we verify the domains and URLs that indicate this host is running fedora linux.
+5. The alert shows a port 55358, we will find this port in column display and follow TCP stream.
+6. The user-agent line in the HTTP Headers also shows that the host is using Fedora, Linux.
+
+![image](https://github.com/user-attachments/assets/391a8abf-ee7a-4981-a2d7-974be490a199)
