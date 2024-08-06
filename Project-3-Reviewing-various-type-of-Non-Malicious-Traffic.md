@@ -66,3 +66,21 @@ This project covers what non-malicious and normal traffic looks like. we shall a
 5. please find the screen shot below for the update traffic for Adobe Reader application.
 
 ![image](https://github.com/user-attachments/assets/db10bfdd-e24f-45c8-9df3-167bac5fb5fd)
+
+### Exercise 5: Verify the Internet Relay Chat (IRC) Traffic generated using IceChat 9.50 on Windows 10 host.
+
+1. Open Wireshark.
+2. Go to "File" > "Open" and select the sample PCAP file you downloaded.
+3. The file will load, and the captured traffic will be displayed.
+4. By basic+dns filtering we can see the IRC traffic.
+5. Also by doing quick filter check irc, we can see if there is IRC chat un encrypted in the PCAP.
+
+#### Expected Output
+
+![image](https://github.com/user-attachments/assets/e6710e3f-da34-44e8-93df-9aadce27b265)
+
+![image](https://github.com/user-attachments/assets/72f473a7-376b-4f1f-bbf5-3f3fa9cbb87c)
+
+![image](https://github.com/user-attachments/assets/2fc3ac9f-b43e-47c9-96b8-114b5c6473be)
+
+
