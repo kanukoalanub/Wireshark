@@ -19,6 +19,9 @@ This project covers what non-malicious and normal traffic looks like. we shall a
 3. The file will load, and the captured traffic will be displayed. lets use basic filter.
 4. when we verify the domains and URLs that indicate this host is running fedora linux.
 5. The alert shows a port 55358, we will find this port in column display and follow TCP stream.
+
+#### Expected Output
+
 6. The user-agent line in the HTTP Headers also shows that the host is using Fedora, Linux.
 
 ![image](https://github.com/user-attachments/assets/391a8abf-ee7a-4981-a2d7-974be490a199)
