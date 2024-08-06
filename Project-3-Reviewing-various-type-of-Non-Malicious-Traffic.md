@@ -54,3 +54,15 @@ This project covers what non-malicious and normal traffic looks like. we shall a
 4. please find the screen shot below for the DNS over HTTPS Traffic as implemented in Firefox.
 
 ![image](https://github.com/user-attachments/assets/08698f79-9f40-4850-8033-bfbc46added7)
+
+### Exercise 4: Verify update traffic for Adobe Reader as part of Application updates.
+
+1. Open Wireshark.
+2. Go to "File" > "Open" and select the sample PCAP file you downloaded.
+3. The file will load, and the captured traffic will be displayed.
+4. Adobe readers updates are provided through domain ardownload.adobe.com
+
+#### Expected Output
+5. please find the screen shot below for the update traffic for Adobe Reader application.
+
+![image](https://github.com/user-attachments/assets/db10bfdd-e24f-45c8-9df3-167bac5fb5fd)
